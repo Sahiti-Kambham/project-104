@@ -1,0 +1,20 @@
+body{
+
+    background:linear-gradient(#d186fc 0% , #8696fd 100%) ;
+    color: darkslateblue;
+}
+
+.heading{
+
+    width: 80%;
+    font-size: 22px;
+    
+
+}
+
+#camara {
+
+    border:2px solid darkorchid;
+    width: 350px;
+    height: 350px;
+}
